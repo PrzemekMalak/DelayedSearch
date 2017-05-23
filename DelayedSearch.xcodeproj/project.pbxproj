@@ -110,7 +110,6 @@
 				TargetAttributes = {
 					01A58D4E1ED4938600221D86 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = R594Y6BEDK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -273,7 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R594Y6BEDK;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DelayedSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pl.codeproject.DelayedSearch;
@@ -285,7 +284,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = R594Y6BEDK;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DelayedSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pl.codeproject.DelayedSearch;
